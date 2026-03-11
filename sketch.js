@@ -23,8 +23,13 @@ strokeWeight(10)
 fill(255,0,0)
 triangle(200,300,250,120,400,20)
 
+strokeWeight(15)
+fill(0,255,0)
+triangle(20,400,120,250,300,200)
 
-
+strokeWeight(10)
+fill(255,255,255)
+rect(20,300,250,50)
 
 
 }
