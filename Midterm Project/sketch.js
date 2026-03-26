@@ -3,6 +3,8 @@ Name: Jai G
 Title: Interactive Worlds – Follow Me Car Project
 
 Instructions:
+- Click Mouse to shrink house ( House Scene)
+- Click Mouse to reduce amount of stars (Space Scene)
 - Click on the menu to choose a scene
 - Move your mouse to guide the car (Car Scene)
 - Click to change colors
